@@ -13,11 +13,11 @@ function Contact() {
             <h1 className="text-white font-bold text-4xl">Get In Touch</h1>
             <form action="" className="flex flex-col ">
             <div className="flex gap-4 py-2  ">
-              {/* <input
+              <input
                 className="bg-transparent h-14 rounded-2xl  border-[1px] border-white pl-4 text-white placeholder-white lg:w-36 "
                 type="text"
                 placeholder="Name"
-              /> */}
+              />
               <input
                 className="bg-transparent h-14  rounded-2xl  border-[1px] border-white pl-4 text-white placeholder-white  lg:w-36"
                 type="text"
