@@ -61,6 +61,13 @@ function Skills() {
                 {" "}
                 <div className=" bg-[#171717]">
                   <img src={img} alt="" />
+                  <h1 className="font-bold text-2xl my-2">Node.js</h1>
+                </div>
+              </SwiperSlide>
+              <SwiperSlide className=" bg-[#171717]">
+                {" "}
+                <div className=" bg-[#171717]">
+                  <img src={img} alt="" />
                   <h1 className="font-bold text-2xl my-2">Tailwind</h1>
                 </div>
               </SwiperSlide>
